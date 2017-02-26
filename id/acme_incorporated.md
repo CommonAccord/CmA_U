@@ -10,7 +10,7 @@ Fax=1.617.345.1234
 
 FR.Capital.All=Deux cents cinquante milles dollars US
 
-=[F/00/ID/Entity/0.md]
+=[G/CmA_F_Agt-Form/00/ID/Entity/0.md]
 
 Adr.=[U/at/US/MA/Suffolk/Boston/State_Street/75/Geo]
 
